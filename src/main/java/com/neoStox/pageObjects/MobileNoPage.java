@@ -30,7 +30,7 @@ public class MobileNoPage {
 	{
 		
 		
-		
+		System.out.println("Clicking on submit BT");
 		
 		
 		Thread.sleep(1000);
