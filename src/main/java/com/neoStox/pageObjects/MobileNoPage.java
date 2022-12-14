@@ -28,10 +28,6 @@ public class MobileNoPage {
 	
 	public void ClickOnSubmitMObno() throws InterruptedException
 	{
-		
-		
-		
-		
 		Thread.sleep(1000);
 		SubmitMOBNO.click();
 		Thread.sleep(1000);
