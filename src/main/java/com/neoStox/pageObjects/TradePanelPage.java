@@ -62,6 +62,9 @@ public class TradePanelPage {
 		ProfileName.click();
 		Thread.sleep(1000);
 		profileSetting.click();
+		
+		
+		
 	}
 	
 	public void EnterFirstName(String FName) throws InterruptedException
