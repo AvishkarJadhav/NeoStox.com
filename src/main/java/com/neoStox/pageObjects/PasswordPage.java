@@ -24,6 +24,7 @@ public class PasswordPage {
 		PassField.sendKeys(Pass);
 		Thread.sleep(1000);
 		Reporter.log("Passing password", true);
+		System.out.println("password");
 	}
 	
 	public void ClickOnSubmitPassword() throws InterruptedException
